@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://isallkun.my.id"><b>Faishal Ananta Ridha</b></a>! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
 
 <div align="center">
+  <img src="/img/monica-everett.jpg" alt="Monica Everett Banner" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/your-monica-everett-banner.png" alt="Monica Everett Banner" width="100%" />
-</div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen" alt="Profile views" />
 
@@ -143,15 +143,15 @@
   <a href="mailto:isallkun@sgbteam.id"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-<div align="center">
-  <h3>🌌 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
 <hr/>
 
 <div align="center">
-  <i>⚡ "In tenebris lucem invenit - Finding light in the darkness" ⚡</i>
-  <br/><br/>
+  <h3>✨ Favorite Quote</h3>
+  <p><i>"The world is made of numbers."</i></p>
+  <p>— Monica Everett</p>
+</div>
+
+<div align="center">
+  <br/>
   <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
 </div>
