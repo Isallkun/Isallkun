@@ -1,89 +1,157 @@
-<!-- markdownlint-disable MD033 MD042-->
-# Hi there, I'm **[Faishal Ananta Ridha](https://isallkun.my.id)**! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
-
-[![@isallkun's Holopin board](https://holopin.me/isallkun)](https://holopin.io/@isallkun)
-
-Dedicated Full-Stack Web Developer with expertise in **Backend Development**, **Cloud Computing**, and **Blockchain Development**. Passionate about building scalable, efficient, and user-focused digital solutions. Currently based in Pasuruan, East Java, Indonesia.
-
----
-
-## **😊 About Me**
-
-![Profile views](https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen)
-
-- 🔭 Currently working as **Backend Developer** at Solafid Solutions
-- 🌱 Building enterprise-grade web applications using **Node.js**, **React.js**, **Laravel**, and **MySQL**
-- ⚡ Experienced in **Blockchain Development** with Solidity and Rust
-- ☁️ Cloud Computing enthusiast - Certified in **Google Cloud Platform** and **AWS**
-- 🎓 Bachelor of Informatics Engineering at Universitas Yudharta Pasuruan (2021-2025)
-- 🌍 Languages: Indonesian (Native), English (Intermediate), Arabic (Intermediate), Japanese (Intermediate)
-- 📫 Reach me: [isallkun@sgbteam.id](mailto:isallkun@sgbteam.id) | [@Isallkun](https://twitter.com/Isallkun)
-
----
-
-## **🛠️ Tech Stack**
-
-### Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![PHP](https://skillicons.dev/icons?i=php)
-![Solidity](https://skillicons.dev/icons?i=solidity)
-![Rust](https://skillicons.dev/icons?i=rust)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Frameworks & Libraries
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![WordPress](https://skillicons.dev/icons?i=wordpress)
-
-### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Mongodb](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-
-### DevOps & Cloud
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
-### Tools
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
----
-
-## **📊 GitHub Stats**
+<h1 align="center">Hi there, I'm <a href="https://isallkun.my.id"><b>Faishal Ananta Ridha</b></a>! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<div align="center">
+  <img src="https://i.imgur.com/your-monica-everett-banner.png" alt="Monica Everett Banner" width="100%" />
+</div>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen" alt="Profile views" />
+
+  <p><b>Dedicated Full-Stack Web Developer</b> with expertise in <b>Backend Development</b>, <b>Cloud Computing</b>, and <b>Blockchain Development</b>.</p>
+
+  <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
+
+  <p>📍 Currently based in <b>Pasuruan, East Java, Indonesia</b></p>
+</div>
+
+<hr/>
+
+<h2><b>😊 About Me</b></h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <h3>👨‍💻 Professional</h3>
+</div>
+
+<div align="left">
+<ul>
+<li>🔭 Currently working as <b>Backend Developer</b> at <b>Solafid Solutions</b></li>
+<li>🌱 Building enterprise-grade web applications using <b>Node.js</b>, <b>React.js</b>, <b>Laravel</b>, and <b>MySQL</b></li>
+<li>⚡ Experienced in <b>Blockchain Development</b> with <b>Solidity</b> and <b>Rust</b></li>
+<li>☁️ Cloud Computing enthusiast - Certified in <b>Google Cloud Platform</b> and <b>AWS</b></li>
+</ul>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <h3>🎓 Education & Languages</h3>
+</div>
+
+<div align="left">
+<ul>
+<li>🎓 <b>Bachelor of Informatics Engineering</b> at Universitas Yudharta Pasuruan (2021-2025)</li>
+<li>🌍 <b>Languages:</b>
+  <ul>
+    <li>🇮🇩 Indonesian (Native)</li>
+    <li>🇬🇧 English (Intermediate)</li>
+    <li>🇸🇦 Arabic (Intermediate)</li>
+    <li>🇯🇵 Japanese (Intermediate)</li>
+  </ul>
+</li>
+</ul>
+</div>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h2><b>🔧 Tech Stack</b></h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <h3>💻 Languages & Frameworks</h3>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isallkun&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <h4><b>Languages</b></h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
+  <h4><b>Frameworks & Libraries</b></h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
 </div>
 
-![readmebox animation](https://raw.githubusercontent.com/Isallkun/Isallkun/main/readmebox.svg)
+</td>
+<td width="50%" valign="top">
 
----
+<div align="center">
+  <h3>⚙️ DevOps & Databases</h3>
+</div>
 
-## **🤝 Let's Connect**
+<div align="center">
+  <h4><b>Databases</b></h4>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+  <h4><b>DevOps & Cloud</b></h4>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github"/>
+  <h4><b>Tools</b></h4>
+  <img src="https://skillicons.dev/icons?i=postman,vscode"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h2><b>📊 GitHub Statistics</b></h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" width="100%"/>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <h3>🔤 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isallkun&theme=radical&hide_border=true" width="65%"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Isallkun/Isallkun/main/readmebox.svg" width="65%"/>
+</div>
+
+<hr/>
+
+<h2 align="center"><b>🤝 Let's Connect</b></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Isallkun"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Isallkun"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://twitter.com/Isallkun"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
-  <a href="mailto:isallkun@sgbteam.id"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/Isallkun"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://github.com/Isallkun"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://twitter.com/Isallkun"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="mailto:isallkun@sgbteam.id"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 <div align="center">
-  <i>⚡ "In tenebris lucem invenit" ⚡</i>
+  <h3>🌌 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <i>⚡ "In tenebris lucem invenit - Finding light in the darkness" ⚡</i>
+  <br/><br/>
+  <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
 </div>
