@@ -1,13 +1,16 @@
 <h1 align="center">Hi there, I'm <a href="https://isallkun.my.id"><b>Faishal Ananta Ridha</b></a>! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
 
 <div align="center">
-  <img src="/img/monica-everett.jpg" alt="Monica Everett Banner" width="100%" />
+  <img src="/img/monica-everett.jpg" alt="Monica Everett Banner" width="70%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen" alt="Profile views" />
+  <p><i>✨ "The world is made of numbers." ✨</i></p>
+  <p>— Monica Everett</p>
+</div>
 
+<div align="center">
   <p><b>Dedicated Full-Stack Web Developer</b> with expertise in <b>Backend Development</b>, <b>Cloud Computing</b>, and <b>Blockchain Development</b>.</p>
 
   <p>Passionate about building scalable, efficient, and user-focused digital solutions.</p>
@@ -73,11 +76,15 @@
   <h3>💻 Languages & Frameworks</h3>
 </div>
 
-<div align="center">
+<div align="left" style="padding-left: 40px;">
   <h4><b>Languages</b></h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
+  </div>
   <h4><b>Frameworks & Libraries</b></h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
+  </div>
 </div>
 
 </td>
@@ -87,13 +94,19 @@
   <h3>⚙️ DevOps & Databases</h3>
 </div>
 
-<div align="center">
+<div align="left" style="padding-left: 40px;">
   <h4><b>Databases</b></h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+  </div>
   <h4><b>DevOps & Cloud</b></h4>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github"/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github"/>
+  </div>
   <h4><b>Tools</b></h4>
-  <img src="https://skillicons.dev/icons?i=postman,vscode"/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postman,vscode"/>
+  </div>
 </div>
 
 </td>
@@ -143,15 +156,12 @@
   <a href="mailto:isallkun@sgbteam.id"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-<hr/>
-
 <div align="center">
-  <h3>✨ Favorite Quote</h3>
-  <p><i>"The world is made of numbers."</i></p>
-  <p>— Monica Everett</p>
+  <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
 </div>
 
 <div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen" alt="Profile views" />
   <br/>
-  <b>Thanks for visiting! Feel free to reach out if you want to collaborate or chat! 😊</b>
 </div>
