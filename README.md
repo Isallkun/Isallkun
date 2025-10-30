@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://isallkun.my.id"><b>Faishal Ananta Ridha</b></a>! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
+<h1 align="center">Hi there, I'm <a href="https://isallkun.github.io"><b>Faishal Ananta Ridha</b></a>! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
 
 <div align="center">
-  <img src="/img/monica-everett.jpg" alt="Monica Everett Banner" width="70%" />
+  <img src="/img/monica-everett.jpg" alt="Monica Everett Banner" width="80%" />
 </div>
 
 <div align="center">
@@ -70,43 +70,49 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
-  <h3>💻 Languages & Frameworks</h3>
+  <h3>💻 Languages</h3>
 </div>
 
-<div align="left" style="padding-left: 40px;">
-  <h4><b>Languages</b></h4>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
-  </div>
-  <h4><b>Frameworks & Libraries</b></h4>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
-  <h3>⚙️ DevOps & Databases</h3>
+  <h3>📚 Frameworks & Libraries</h3>
 </div>
 
-<div align="left" style="padding-left: 40px;">
-  <h4><b>Databases</b></h4>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
-  </div>
-  <h4><b>DevOps & Cloud</b></h4>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github"/>
-  </div>
-  <h4><b>Tools</b></h4>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,vscode"/>
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>⚙️ Databases</h3>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+<div align="center">
+  <h3>☁️ DevOps & Tools</h3>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,postman,vscode"/>
 </div>
 
 </td>
