@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java,html,css"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,solidity,rust,java"/>
 </div>
 
 </td>
@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel,html,css"/>
 </div>
 
 </td>
@@ -112,7 +112,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github,postman"/>
 </div>
 
 </td>
