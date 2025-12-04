@@ -32,7 +32,7 @@
 
 <div align="left">
 <ul>
-<li>🔭 Currently working as <b>Backend Developer</b> at <b>Solafid Solutions</b></li>
+<li>🔭 Currently working as <b> Unemployment 
 <li>🌱 Building enterprise-grade web applications using <b>Node.js</b>, <b>React.js</b>, <b>Laravel</b>, and <b>MySQL</b></li>
 <li>⚡ Experienced in <b>Blockchain Development</b> with <b>Solidity</b> and <b>Rust</b></li>
 <li>☁️ Cloud Computing enthusiast - Certified in <b>Google Cloud Platform</b> and <b>AWS</b></li>
@@ -128,8 +128,8 @@
 <td width="50%" valign="top">
 
 <div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" width="100%"/>
+  <h3>📈 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isallkun&theme=radical&hide_border=true" width="100%"/>
 </div>
 
 </td>
@@ -143,13 +143,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isallkun&theme=radical&hide_border=true" width="65%"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/Isallkun/Isallkun/main/readmebox.svg" width="65%"/>
-</div>
 
 <hr/>
 
