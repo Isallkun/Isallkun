@@ -121,7 +121,7 @@
 
 <hr/>
 
-<h2><b>📊 GitHub Statistics</b></h2>
+<!-- <h2><b>📊 GitHub Statistics</b></h2>
 
 <table>
 <tr>
@@ -144,7 +144,7 @@
 </tr>
 </table>
 
-<hr/>
+<hr/> -->
 
 <h2 align="center"><b>🤝 Let's Connect</b></h2>
 
