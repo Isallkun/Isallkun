@@ -164,3 +164,7 @@
   <img src="https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen" alt="Profile views" />
   <br/>
 </div>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Isallkun&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Isallkun&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isallkun&layout=compact&theme=radical)
